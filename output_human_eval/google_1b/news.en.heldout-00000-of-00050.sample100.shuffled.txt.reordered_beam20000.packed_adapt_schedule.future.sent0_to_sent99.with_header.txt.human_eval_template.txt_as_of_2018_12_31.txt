@@ -1,0 +1,1800 @@
+----------------------------------
+SENTENCE NUMBER: 0
+ORIGINAL: Vujanovic and Medojevic said they would not rush in recognising Kosovo 's statehood in order not to further alienate Serbia which considers the territory its historic heartland .
+REORDERED: Medojevic said Vujanovic not recognising Kosovo 's statehood would further alienate Serbia which considers the territory its historic heartland and they in order not to rush in .
+	ORIGINAL log prob: -100.79637145996094
+	REORDERED log prob: -126.52075457572937
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 28
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 1
+ORIGINAL: A deal at the summit could also be scuppered by smaller developing countries , which have been " obstructionist " according to some negotiators .
+REORDERED: A deal could also be scuppered by some smaller developing countries which have been " obstructionist , " according to negotiators at the summit .
+	ORIGINAL log prob: -92.57001495361328
+	REORDERED log prob: -88.01311349868774
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 25
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 2
+ORIGINAL: For example , the naked eye does not see the northern lights as the bright neon green of a radar screen that I had seen in pictures ; that effect is created by photographing them with a long shutter speed .
+REORDERED: For example , photographing bright neon lights with the naked eye is seen as a green screen that does not effect shutter speed ; in the pictures created by the radar I see that had a long northern of them .
+	ORIGINAL log prob: -174.96885681152344
+	REORDERED log prob: -177.1107416152954
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 41
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [x ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 3
+ORIGINAL: We all want to change the status quo , which is George W. Bush and the Republican domination of Washington for so many years .
+REORDERED: We all want to change the status quo , which is George W. Bush and the Republican domination of Washington for so many years .
+	ORIGINAL log prob: -73.4701156616211
+	REORDERED log prob: -73.4699764251709
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 25
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 4
+ORIGINAL: The estranged wife of a longtime aide to Rick Pitino was indicted Tuesday on federal charges of trying to extort money from the Louisville men 's basketball coach and lying to the FBI .
+REORDERED: The Louisville men 's basketball coach Rick Pitino was indicted Tuesday on federal charges of trying to extort money from the estranged wife of a longtime aide and to lying to the FBI .
+	ORIGINAL log prob: -65.09970092773438
+	REORDERED log prob: -70.08100628852844
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 34
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 5
+ORIGINAL: Dubbed " the voice of the silent majority , " Sosa was credited with championing the poor and fighting for political change .
+REORDERED: Dubbed " the voice of the silent majority , " Sosa was credited with championing the poor and fighting for political change .
+	ORIGINAL log prob: -65.91569519042969
+	REORDERED log prob: -65.91565132141113
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 23
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 6
+ORIGINAL: Many of these western telecoms companies go into the expected global recession with much stronger balance sheets compared to the downturn of 2000-01 .
+REORDERED: Many of these telecoms companies go into the global downturn with much stronger balance sheets compared to the expected western recession of 2000-01 .
+	ORIGINAL log prob: -101.83863830566406
+	REORDERED log prob: -94.12442016601562
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 24
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 7
+ORIGINAL: The investors could collect penalties because American International Group , which backed the arrangement , has seen its credit rating tumble .
+REORDERED: The American International Group , which has seen its credit rating tumble because investors backed the arrangement , could collect penalties .
+	ORIGINAL log prob: -92.75736236572266
+	REORDERED log prob: -87.01936483383179
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 22
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 8
+ORIGINAL: Many in the Niger Delta are critical of Mr Yar 'Adua 's attempts to tackle the insecurity in the region since he came to power in May , 2007 , promising to use dialogue and development to address the area 's long-standing sense of marginalisation .
+REORDERED: Mr Yar 'Adua came to power in May 2007 promising to tackle the Niger Delta 's long-standing marginalisation in the region and address insecurity in the area , critical to development since he attempts to use the dialogue 's sense of , Many are of .
+	ORIGINAL log prob: -137.29150390625
+	REORDERED log prob: -189.00341606140137
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 46
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 9
+ORIGINAL: Australian Prime Minister Kevin Rudd will offer his own apology Monday to the child migrants , as well as to the " forgotten Australians , " children who suffered in state care during the last century .
+REORDERED: Australian Prime Minister Kevin Rudd will offer his own apology Monday to the " forgotten Australians " who suffered child migrants during the last century , as well as children in care , to the state .
+	ORIGINAL log prob: -92.84331512451172
+	REORDERED log prob: -99.92141354084015
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 37
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 10
+ORIGINAL: The first two make the jelly that goes so well with lamb while blackcurrants yield the best jam in the cupboard .
+REORDERED: The blackcurrants make the best jelly in the cupboard so that goes well with lamb while the first two yield jam .
+	ORIGINAL log prob: -116.93333435058594
+	REORDERED log prob: -103.22259330749512
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 22
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 11
+ORIGINAL: Quite what the Labour Party was thinking is anyone 's guess .
+REORDERED: Quite what the Labour Party was thinking is anyone 's guess .
+	ORIGINAL log prob: -39.565128326416016
+	REORDERED log prob: -39.5651478767395
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 12
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 12
+ORIGINAL: It was last updated at 09.30 GMT on Thursday 19 March 2009 .
+REORDERED: It was last updated at 09.30 GMT on Thursday 19 March 2009 .
+	ORIGINAL log prob: -22.590686798095703
+	REORDERED log prob: -22.590742111206055
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 13
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 13
+ORIGINAL: Covering 15 to 25 miles daily , six days a week , it marched for three or four hours a morning then halted in the extreme heat to water and feed the animals .
+REORDERED: Covering 15 to 25 miles three or four days a week in extreme heat for six hours , the animals marched daily to feed the water , and then a morning it halted .
+	ORIGINAL log prob: -139.9751739501953
+	REORDERED log prob: -139.72827529907227
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 34
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 14
+ORIGINAL: According to the research , as many as 75 to 80 per cent of dreams deal with everyday personal concerns and interests .
+REORDERED: According to the research , as many as 75 to 80 per cent of personal dreams and interests deal with everyday concerns .
+	ORIGINAL log prob: -81.03150177001953
+	REORDERED log prob: -80.08893585205078
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 23
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 15
+ORIGINAL: Best of all , there would be no commute to work as industry was located within easy walking distance of housing .
+REORDERED: Best of all , there would be no easy commute to work as housing was located within walking distance of industry .
+	ORIGINAL log prob: -85.97505950927734
+	REORDERED log prob: -83.28900575637817
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 22
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 16
+ORIGINAL: Since 2005 , Rodriguez , a lifetime .279 postseason hitter , is 7 for 44 ( .159 ) in playoff games with 1 homer , 1 RBI and 15 strikeouts .
+REORDERED: Since Rodriguez is a .279 lifetime hitter ( .159 with 1 homer , 7 RBI and 15 strikeouts in 44 postseason playoff games ) , 1 , 2005 , for .
+	ORIGINAL log prob: -125.33634185791016
+	REORDERED log prob: -130.86882257461548
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 31
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [x ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 17
+ORIGINAL: Analysts believe Yahoo Inc . ' s stock price will surrender most , perhaps all , of its 50 percent gain since Microsoft Corp. made its initial offer on Jan .
+REORDERED: Analysts believe Yahoo Inc . ' s stock price will surrender most of its 50 percent gain since Microsoft Corp. made its initial offer , perhaps all , on Jan .
+	ORIGINAL log prob: -83.38807678222656
+	REORDERED log prob: -95.16240906715393
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 31
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 18
+ORIGINAL: The Fort Hood Killer : Terrified ... or Terrorist ? 7 .
+REORDERED: The Fort Hood Killer : Terrified ... or Terrorist ? 7 .
+	ORIGINAL log prob: -21.802059173583984
+	REORDERED log prob: -21.80205249786377
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 12
+++Original sentence: Regular sentence: [ ]; Headline: [ x]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ marking as acceptable---presumably the '7' is for a footnote]]]
+
+----------------------------------
+SENTENCE NUMBER: 19
+ORIGINAL: Sarkozy was elected in May on promises to reform France from its courts to its creaking university system , its army of civil servants to rail workers whose special retirement privileges he vowed to erase .
+REORDERED: Sarkozy was elected in May on promises to reform France , from its creaking university system to its army of civil servants whose special retirement privileges he vowed to erase to its rail workers courts .
+	ORIGINAL log prob: -118.21646118164062
+	REORDERED log prob: -119.58408856391907
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 36
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ The reordered sentence is awkward, and it's not clear what a 'rail workers' court would be.]]]
+
+----------------------------------
+SENTENCE NUMBER: 20
+ORIGINAL: " The governor will be permitted to turn himself in deference to his position , " she said .
+REORDERED: " The governor will be permitted to turn himself in deference to his position , " she said .
+	ORIGINAL log prob: -54.675106048583984
+	REORDERED log prob: -54.675071716308594
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 19
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 21
+ORIGINAL: Most recently , a May 23 story in the China Daily newspaper , the official English-language paper of the Chinese government , had her age as 14 .
+REORDERED: Most recently , the English-language China Daily newspaper , the official paper of the Chinese government , in a May 23 story had her age as 14 .
+	ORIGINAL log prob: -86.0511245727539
+	REORDERED log prob: -97.73172378540039
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 28
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 22
+ORIGINAL: Those trips have dominated television newscasts in recent weeks .
+REORDERED: Those trips have dominated television newscasts in recent weeks .
+	ORIGINAL log prob: -42.399330139160156
+	REORDERED log prob: -42.39928722381592
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 10
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 23
+ORIGINAL: " It 's a serious case , " said the chief prosecutor , Army Col. Lawrence Morris .
+REORDERED: " It 's a serious case , " said Col. Lawrence Morris , the chief Army prosecutor .
+	ORIGINAL log prob: -35.965232849121094
+	REORDERED log prob: -45.236658573150635
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 18
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 24
+ORIGINAL: The access to care will be based on level of need .
+REORDERED: The level of access to care will be based on need .
+	ORIGINAL log prob: -44.52349090576172
+	REORDERED log prob: -40.56435680389404
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 12
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 25
+ORIGINAL: The agency sought hair samples from 138 sports men and women last year .
+REORDERED: The agency sought hair samples from 138 sports men and women last year .
+	ORIGINAL log prob: -62.20808792114258
+	REORDERED log prob: -62.20807504653931
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 14
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 26
+ORIGINAL: Note : Please forgive our amateur videography .
+REORDERED: Note : Please forgive our amateur videography .
+	ORIGINAL log prob: -59.04352951049805
+	REORDERED log prob: -59.04353713989258
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 8
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 27
+ORIGINAL: In 2004 , Boston led all of baseball in runs scored , and the inconsistency of a few key components -- hello , right fielder J.D. Drew -- has made the offense sputter occasionally this season .
+REORDERED: Boston right fielder J.D. Drew has led all baseball in runs scored , and key components of the offense occasionally sputter this season -- inconsistency of a few , hello -- In 2004 , the made .
+	ORIGINAL log prob: -134.1224822998047
+	REORDERED log prob: -167.1007776260376
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 37
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 28
+ORIGINAL: San Juan Teitipac 's appeal was far from evident when I dragged my suitcase off the battered bus into a nearly empty plaza bordered by a town hall shuttered for lunch and an old church shuttered until who knows when . But things soon started looking up .
+REORDERED: San Juan Teitipac was nearly empty when I dragged my battered suitcase into a town hall plaza bordered by an old shuttered bus and a shuttered church for lunch when things started looking up from the far off . But who knows until appeal 's evident soon .
+	ORIGINAL log prob: -228.37014770507812
+	REORDERED log prob: -235.3480362892151
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 48
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ The source contains two sentences. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 29
+ORIGINAL: Evan Washington 's game-tying 3-point attempt with 5 seconds remaining came up short .
+REORDERED: Evan Washington 's game-tying 3-point attempt came up short with 5 seconds remaining .
+	ORIGINAL log prob: -51.93185806274414
+	REORDERED log prob: -50.623626708984375
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 14
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 30
+ORIGINAL: This is his pretzel posture , the political equivalent of the brace position for airline passengers .
+REORDERED: This is his political equivalent of the posture position , the pretzel brace for airline passengers .
+	ORIGINAL log prob: -90.41039276123047
+	REORDERED log prob: -88.73058652877808
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 17
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ The reordered sentence is grammatically acceptable, but it's a strange construction and use of terms without context, so I'm marking it as semantically unacceptable. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 31
+ORIGINAL: City officials and Nationals executives have been working on plans for new traffic patterns and parking for about 5,000 cars expected at most games .
+REORDERED: City officials and executives have been working on plans for new traffic patterns and parking for about 5,000 cars expected at most Nationals games .
+	ORIGINAL log prob: -100.91810607910156
+	REORDERED log prob: -96.34837913513184
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 25
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 32
+ORIGINAL: She later updated it with details of 10 donors , who each gave about £ 1,000 to her campaign .
+REORDERED: She later updated it with details of 10 donors , who each gave about £ 1,000 to her campaign .
+	ORIGINAL log prob: -64.40013885498047
+	REORDERED log prob: -64.40006470680237
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 20
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 33
+ORIGINAL: It has updated this night-time classic , and as well as selling the whole set ( £ 29.50 , in everything from spots to plaid ) , it also has separates that you can throw into the mix .
+REORDERED: It also has everything from updated plaid to classic separates ( £ 29.50 ) that you can throw into the mix , as well as the whole set , in spots , and this has it selling night-time .
+	ORIGINAL log prob: -179.07147216796875
+	REORDERED log prob: -161.67198181152344
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 39
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 34
+ORIGINAL: Terrorists and extremists were succeeding in their efforts to plunge Iraq into chaos .
+REORDERED: Terrorists and extremists were succeeding in their efforts to plunge Iraq into chaos .
+	ORIGINAL log prob: -50.32635498046875
+	REORDERED log prob: -50.326393127441406
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 14
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 35
+ORIGINAL: Altman : It 's difficult to get their attention , but we built a cool service that consumers really like and that fits with their goals .
+REORDERED: Altman : It 's difficult to get their attention , but we built a really cool service that consumers like and that fits with their goals .
+	ORIGINAL log prob: -115.28598022460938
+	REORDERED log prob: -115.34295988082886
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 27
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 36
+ORIGINAL: It also said majority of earthquakes recorded in the past days have been associated with rockfalls , not rising magma .
+REORDERED: It also said past earthquakes have not been associated with rockfalls , the majority recorded in days of rising magma .
+	ORIGINAL log prob: -83.08040618896484
+	REORDERED log prob: -83.60451889038086
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 21
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ ]; Ungrammatical: [ x]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ The source sentence is missing an article before 'majority'. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 37
+ORIGINAL: Their overwhelming favorite is 57-year-old Briton Hilary Mantel , whose " Wolf Hall , " about the life and times of Thomas Cromwell , has led the odds ever since the shortlist for one of the world 's top literary awards was revealed last month .
+REORDERED: Hilary Mantel , whose Wolf Hall shortlist for Cromwell was one of the literary world 's top awards last month , has revealed the 57-year-old Briton is the overwhelming favorite ever since odds about the life and times of " Their " Thomas , led .
+	ORIGINAL log prob: -137.46311950683594
+	REORDERED log prob: -188.98184871673584
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 46
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 38
+ORIGINAL: With McCain and Giuliani in the race , he faced two nationally known figures .
+REORDERED: With McCain and Giuliani in the race , he faced two nationally known figures .
+	ORIGINAL log prob: -59.924617767333984
+	REORDERED log prob: -59.92463159561157
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 15
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 39
+ORIGINAL: We practise that every training session and it 's great to be involved with it .
+REORDERED: We practise it every training session and it 's great to be involved with that .
+	ORIGINAL log prob: -62.015907287597656
+	REORDERED log prob: -56.08774185180664
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 16
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ x]; Semantically different: [ ]
+Notes: [[[  ]]]
+
+----------------------------------
+SENTENCE NUMBER: 40
+ORIGINAL: What I 'm describing ( imagining would probably be more accurate ) is a process of viral social change , and change of this kind , which is nonlinear , is never something anyone can plan or predict or count on .
+REORDERED: What I 'm describing is a kind of nonlinear process of imagining viral social change , which is something anyone can count on ( or predict ) would be more accurate , and this is probably never change , or plan .
+	ORIGINAL log prob: -181.9693603515625
+	REORDERED log prob: -169.9595594406128
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 42
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[  ]]]
+
+----------------------------------
+SENTENCE NUMBER: 41
+ORIGINAL: She said she quit when the manager told her she had to provide manual sex for clients .
+REORDERED: She said she quit when the manager told her she had to provide sex manual for clients .
+	ORIGINAL log prob: -69.82559967041016
+	REORDERED log prob: -68.88965272903442
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 18
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 42
+ORIGINAL: But this season , she took her skiing to a new level , dominating the downhill and picking up enough points in combined , super-G and giant slalom to win the overall title ahead of last year 's champion , Nicole Hosp of Austria , and her good friend Maria Riesch of Germany .
+REORDERED: Nicole Hosp of Austria and downhill champion Maria Riesch of Germany combined super-G and giant slalom to win the overall title in dominating skiing this season , picking up enough points ahead of last year 's good friend took her to a new level , and she , her , the But , .
+	ORIGINAL log prob: -133.3115692138672
+	REORDERED log prob: -194.12779903411865
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 54
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 43
+ORIGINAL: If it 's the latter , the Century Plaza may be in trouble .
+REORDERED: If it 's the latter , the Century Plaza may be in trouble .
+	ORIGINAL log prob: -46.284812927246094
+	REORDERED log prob: -46.28483009338379
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 14
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 44
+ORIGINAL: Another sneak peek from my shoot !
+REORDERED: Another sneak peek from my shoot !
+	ORIGINAL log prob: -41.90119171142578
+	REORDERED log prob: -41.901212215423584
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 7
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ I'm marking this as acceptable, but it's clearly colloquial. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 45
+ORIGINAL: Iraq produces about 2.5 million barrels of oil a day .
+REORDERED: Iraq produces about 2.5 million barrels of oil a day .
+	ORIGINAL log prob: -23.229286193847656
+	REORDERED log prob: -23.229313850402832
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 11
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 46
+ORIGINAL: Then , Green tapped a rebound past a diving Ward at the end of the second period--an instant after the green light flashed and the buzzer sounded to end the period .
+REORDERED: Then after a green light flashed and the buzzer sounded to end the second period , Ward tapped a rebound past the diving Green at the end of the period--an instant .
+	ORIGINAL log prob: -126.71141815185547
+	REORDERED log prob: -127.55931234359741
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 32
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 47
+ORIGINAL: But last Fridays ' attack showed that terrorists , possibly Noordin 's violent Jemaah Islamiyah splinter group , are still able to strike closely-guarded Western targets in the heart of the capital , reviving fears that more bombings may follow .
+REORDERED: Noordin 's violent splinter group Jemaah Islamiyah bombings showed that terrorists are still able to strike Western targets in the heart of the capital , reviving fears that more attack may follow , possibly But Fridays ' last , closely-guarded .
+	ORIGINAL log prob: -148.13101196289062
+	REORDERED log prob: -166.85605430603027
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 41
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 48
+ORIGINAL: There was Elizabeth whose daughter had recently died of leukemia .
+REORDERED: There was Elizabeth whose daughter had recently died of leukemia .
+	ORIGINAL log prob: -48.39302062988281
+	REORDERED log prob: -48.39306688308716
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 11
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 49
+ORIGINAL: Megrahi , who was convicted in 2001 , was given a chance to clear his name last year when the Scottish Criminal Cases Review Commission referred his case back to appeal judges , The Scotsman reported .
+REORDERED: The Scottish Criminal Cases Review Commission referred his case back to appeal judges last year when Megrahi , who was convicted in 2001 , was given a chance to clear his name , the Scotsman reported .
+	ORIGINAL log prob: -60.36149597167969
+	REORDERED log prob: -78.47312951087952
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 37
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 50
+ORIGINAL: U.S forces first landed in Afghanistan in October 2001 .
+REORDERED: U.S forces first landed in Afghanistan in October 2001 .
+	ORIGINAL log prob: -38.6368408203125
+	REORDERED log prob: -38.63676738739014
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 10
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 51
+ORIGINAL: However , the medical teams say all the teenagers will need prolonged care .
+REORDERED: However , the medical teams say the teenagers will all need prolonged care .
+	ORIGINAL log prob: -59.56705093383789
+	REORDERED log prob: -59.236233711242676
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 14
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 52
+ORIGINAL: " While we 're asking consumers for their help to reduce consumption , it is still important to maintain health and safety as high priorities during high heat periods and recognize that children , elderly and the chronically ill may be particularly vulnerable to the effects of heat , " said Tonge .
+REORDERED: While the elderly and chronically ill may be particularly vulnerable to heat effects during periods of high heat , it is important to reduce their consumption to help maintain health and safety as consumers recognize that we 're still asking for high priorities , " said Tonge , " and the children .
+	ORIGINAL log prob: -203.30328369140625
+	REORDERED log prob: -205.63064336776733
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 53
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 53
+ORIGINAL: John Connolly , whose two-year stint as head coach ended with the defeat , was confident Australian rugby was on the right track and the Wallabies would remain a force in years to come .
+REORDERED: Australian head coach John Connolly , whose two-year stint with the Wallabies ended in defeat , was confident rugby was on the right track and would remain a force as the years to come .
+	ORIGINAL log prob: -108.6838150024414
+	REORDERED log prob: -104.85281109809875
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 35
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ I think the preposition 'as' is misused in the reordered sentence. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 54
+ORIGINAL: It begs the question as to whether Chelsea could be tempted to look at the Ajax striker Luis Suarez , also a target for Spurs , although he is Champions League cup-tied .
+REORDERED: It also begs the question whether Ajax striker Luis Suarez is cup-tied for the Champions League , although he could be tempted to look to Chelsea , as a target at Spurs .
+	ORIGINAL log prob: -121.3323974609375
+	REORDERED log prob: -115.77979946136475
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 33
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ cup-tied is a British term ]]]
+
+----------------------------------
+SENTENCE NUMBER: 55
+ORIGINAL: Top daily rates-up to £ 170 p / d. servite houses limited. east and west midlands . £ 19,717.60 per annum .
+REORDERED: Top daily rates-up to £ 170 p / d. servite houses limited. east and west midlands . £ 19,717.60 per annum .
+	ORIGINAL log prob: -21.18818473815918
+	REORDERED log prob: -21.1881685256958
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 22
+++Original sentence: Regular sentence: [ ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ x]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ Marking this as acceptable here (in the context of not being a regular sentence), but this is not a standard sentence. It is perhaps some type of property listing. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 56
+ORIGINAL: His father started working to help support his family before he reached puberty .
+REORDERED: His father started working before he reached puberty to help support his family .
+	ORIGINAL log prob: -51.562164306640625
+	REORDERED log prob: -50.55863380432129
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 14
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 57
+ORIGINAL: Taking a 20-minute nap can restore energy without leaving you feeling groggy .
+REORDERED: Taking a 20-minute nap can restore energy without leaving you feeling groggy .
+	ORIGINAL log prob: -56.963016510009766
+	REORDERED log prob: -56.96303367614746
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 13
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 58
+ORIGINAL: Taking yesterday 's negative surprise on Polish labour data into account , we could be in for another negative surprise today when we get numbers for Polish industrial production in April.Worsening wages and unemployment growth are bad enough .
+REORDERED: Taking into account today 's April.Worsening unemployment numbers and negative industrial production data yesterday , we could be in for another negative surprise on growth surprise when labour wages are bad enough for we get Polish in Polish .
+	ORIGINAL log prob: -173.6551513671875
+	REORDERED log prob: -174.16094207763672
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 1; Number of LM unks: 1
+	Length: 39
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ ]; Ungrammatical: [ x]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ missing space in the source: April.Worsening ]]]
+
+----------------------------------
+SENTENCE NUMBER: 59
+ORIGINAL: The Walker consortium 's initial plan was to buy the chain unencumbered by its debts and pension liabilities which , combined , stand at £ 172m today .
+REORDERED: The consortium 's combined debts and pension liabilities , which today stand at £ 172m , was unencumbered by its initial plan to buy the Walker chain .
+	ORIGINAL log prob: -121.06205749511719
+	REORDERED log prob: -117.55642557144165
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 28
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 60
+ORIGINAL: With rare Russian and Chinese backing , the vote sent a message of increasing international resolve to challenge Iran over its disputed nuclear ambitions .
+REORDERED: With rare Russian and Chinese backing to challenge Iran over its disputed nuclear ambitions , the vote sent a message of increasing international resolve .
+	ORIGINAL log prob: -78.52938842773438
+	REORDERED log prob: -87.56799292564392
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 25
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 61
+ORIGINAL: Sony Online has gone from creating Cash Money Chaos , a bang-bang game released in 2006 that features guns , girls and gold , to Free Realms .
+REORDERED: Free Realms , a game that Sony Online released in 2006 , has gone gold from Cash Money to Chaos , and features bang-bang girls creating guns .
+	ORIGINAL log prob: -173.8052978515625
+	REORDERED log prob: -144.96489429473877
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 28
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [x ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 62
+ORIGINAL: PARIS -- Although the Paris Opera is the place where Romantic ballets like " La Sylphide " ( 1832 ) and " Giselle " ( 1841 ) had their world premieres , it isn 't where they survived .
+REORDERED: Although Romantic ballets like " La Sylphide " and " Giselle " had their world premieres , the Paris Opera ( where they survived ) isn 't the place where it is . -- PARIS 1832 ( 1841 )
+	ORIGINAL log prob: -150.21438598632812
+	REORDERED log prob: -160.39072132110596
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 39
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 63
+ORIGINAL: But because GPs could confirm or rule out heart problems from the heart monitor readings , only 21 patients were referred to hospital for further tests .
+REORDERED: But only 21 heart patients were referred for further tests to confirm or rule out heart problems , because GPs could monitor readings from the hospital .
+	ORIGINAL log prob: -104.38575744628906
+	REORDERED log prob: -103.21990704536438
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 27
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 64
+ORIGINAL: The bank 's total revenue fell below expectations , however , and the company 's stock fell 78 cents to $ 43.91 in premarket trading .
+REORDERED: The bank 's stock fell 78 cents to $ 43.91 in premarket trading , and the company 's total revenue fell below expectations , however .
+	ORIGINAL log prob: -64.00164031982422
+	REORDERED log prob: -74.54835844039917
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 26
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 65
+ORIGINAL: The Interior Department 's Minerals Management Service said yesterday that only 61 percent of oil production in the Gulf of Mexico has been restored as companies struggle with repairs to platforms .
+REORDERED: The Interior Department 's Minerals Management Service said yesterday that only 61 percent of oil production in the Gulf of Mexico has been restored to platforms as companies struggle with repairs .
+	ORIGINAL log prob: -83.65196228027344
+	REORDERED log prob: -83.28315925598145
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 32
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 66
+ORIGINAL: And they were all , of course , extremely popular in Austria .
+REORDERED: And , of course , they were all extremely popular in Austria .
+	ORIGINAL log prob: -44.82679748535156
+	REORDERED log prob: -41.37462377548218
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 13
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 67
+ORIGINAL: Some academies have shown remarkable results , giving a new start to schools in deprived areas .
+REORDERED: Some schools have shown remarkable results , giving a new start to academies in deprived areas .
+	ORIGINAL log prob: -63.095314025878906
+	REORDERED log prob: -62.21845459938049
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 17
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ x]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 68
+ORIGINAL: 21 ) : You are prone to shocking , reckless action , so you need to tune up the volume on the self-control knob .
+REORDERED: 21 ) : You are prone to self-control , so you need to tune up the volume knob on the reckless , shocking action .
+	ORIGINAL log prob: -107.23785400390625
+	REORDERED log prob: -105.60649013519287
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 25
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ colloquial ]]]
+
+----------------------------------
+SENTENCE NUMBER: 69
+ORIGINAL: " There 's huge speculation that he ( Ashton ) would like to bring Shaun Edwards into his coaching team , " said Robertson .
+REORDERED: " There 's huge speculation that he ( Robertson ) would like to bring Shaun Edwards into his coaching team , " said Ashton .
+	ORIGINAL log prob: -84.7802505493164
+	REORDERED log prob: -83.4155068397522
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 25
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 70
+ORIGINAL: Excluding one-time items , earnings per share were 39 cents , exceeding the 34 cents per share expected , on average , by analysts , according to Reuters Estimates .
+REORDERED: Excluding one-time items , earnings were 39 cents per share , exceeding the 34 cents per share expected by analysts , according to Reuters Estimates , on average , .
+	ORIGINAL log prob: -42.4499397277832
+	REORDERED log prob: -56.9702844619751
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 30
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 71
+ORIGINAL: Although not one to flinch at danger , Baumgartner may find that rising in the balloon may is more gut-wrenching than shooting to Earth like a comet .
+REORDERED: Although Earth may not like to flinch at a rising comet , Baumgartner may find that more than one balloon is shooting in to the gut-wrenching danger .
+	ORIGINAL log prob: -145.25698852539062
+	REORDERED log prob: -135.30442190170288
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 28
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ ]; Ungrammatical: [ x]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 72
+ORIGINAL: Recently , Afghan President Hamid Karzai told the BBC that he planned to introduce a scheme to attract Taliban fighters back to normal life by offering money and jobs .
+REORDERED: Recently , Afghan President Hamid Karzai told the BBC that he planned to introduce a scheme to attract Taliban fighters back to normal life by offering money and jobs .
+	ORIGINAL log prob: -77.43799591064453
+	REORDERED log prob: -77.43790686130524
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 30
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 73
+ORIGINAL: He said it appeared to be a football issue and that it was " downright despicable " for anyone to try and associate the Apprentice Boys with the trouble .
+REORDERED: He said it was " downright despicable " for anyone to try and associate it with the Apprentice Boys and that the trouble appeared to be a football issue .
+	ORIGINAL log prob: -109.79933166503906
+	REORDERED log prob: -104.08813881874084
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 30
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ x]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 74
+ORIGINAL: Five US citizens accused of plotting jihad , attempting to join Al-Qaeda and planning terrorist attacks are due to appear in court in Pakistan 's Punjab province on Tuesday .
+REORDERED: Five US citizens accused of plotting jihad , planning terrorist attacks and attempting to join Al-Qaeda are due to appear in court on Tuesday in Pakistan 's Punjab province .
+	ORIGINAL log prob: -83.6195068359375
+	REORDERED log prob: -81.19994163513184
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 30
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 75
+ORIGINAL: When Vinas arrived in Lahore he had little idea about how he was going to gain access to the fighting in Afghanistan , according to his own account .
+REORDERED: When he arrived in Lahore , Vinas had little idea about how he was going to gain access to the fighting in Afghanistan according to his own account .
+	ORIGINAL log prob: -91.18521881103516
+	REORDERED log prob: -93.46553659439087
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 29
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 76
+ORIGINAL: The opposition said the constitution had been flouted .
+REORDERED: The opposition said the constitution had been flouted .
+	ORIGINAL log prob: -29.28758430480957
+	REORDERED log prob: -29.28755807876587
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 9
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 77
+ORIGINAL: If you are a young active person or a professional , you can 't afford the time off the treatment causes from side affects to only find later the disease is back .
+REORDERED: If you are a young person , you can 't afford the disease treatment or the time off from active professional causes only to later find the back is a side affects .
+	ORIGINAL log prob: -153.47412109375
+	REORDERED log prob: -134.00207424163818
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 33
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 78
+ORIGINAL: SOTOMAYOR : In the situation of that case , that was the position that I took because that 's what I believed the law commanded .
+REORDERED: SOTOMAYOR : In that case , I took that position because I believed that that 's what the law commanded of the situation was the .
+	ORIGINAL log prob: -90.30925750732422
+	REORDERED log prob: -91.93987369537354
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 26
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 79
+ORIGINAL: Eurostar , which has enjoyed months of successive growth following its move across London from Waterloo to St Pancras , reported recently that passenger numbers fell by 11.5 per cent between January and March , to 1.92 million , compared with the same period last year .
+REORDERED: Eurostar from London Waterloo to St Pancras recently reported that passenger numbers fell by 11.5 per cent between January and March , compared with the same period last year , to 1.92 million , which has enjoyed successive months of growth , following its move across .
+	ORIGINAL log prob: -126.75108337402344
+	REORDERED log prob: -148.96568822860718
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 47
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 80
+ORIGINAL: They are at least twice as likely as adults to send IMs to a friend 's phone , and to use them to share music or video files or to listen to music .
+REORDERED: They are at least twice as likely as adults to use IMs to share music or video files or listen to music and send them to a friend 's phone to , to .
+	ORIGINAL log prob: -85.83232879638672
+	REORDERED log prob: -106.2098650932312
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 34
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 81
+ORIGINAL: The volume will have very short articles , no more than a few paragraphs at most , and include photos and illustrations .
+REORDERED: The articles will include no more than a few paragraphs and have very short illustrations , volume , and photos at most .
+	ORIGINAL log prob: -87.13700866699219
+	REORDERED log prob: -89.8766975402832
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 23
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 82
+ORIGINAL: Try Jumbo 's for crab with doughnuts or prawns and dried chillis .
+REORDERED: Try with chillis and dried doughnuts or Jumbo prawns for crab 's .
+	ORIGINAL log prob: -100.37357330322266
+	REORDERED log prob: -84.86221218109131
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 13
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [x ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 83
+ORIGINAL: The Porsche chief said nothing in public .
+REORDERED: The Porsche chief said nothing in public .
+	ORIGINAL log prob: -37.537933349609375
+	REORDERED log prob: -37.5379581451416
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 8
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 84
+ORIGINAL: Christie 's brought in 102 million dollars , within the target range of 87-125 million dollars .
+REORDERED: Christie 's brought in 87-125 million dollars , within the target range of 102 million dollars .
+	ORIGINAL log prob: -56.79179763793945
+	REORDERED log prob: -60.1135835647583
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 1; Number of LM unks: 1
+	Length: 17
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ 87-125 is an unknown in the language model vocabulary. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 85
+ORIGINAL: I asked director Kathryn Bigelow about this and she was perplexed but happy to be there despite the fact that her film is months away from actually hitting theaters .
+REORDERED: I actually asked director Kathryn Bigelow about this despite the fact that her film was months away from hitting theaters and she is perplexed but happy to be there .
+	ORIGINAL log prob: -103.83965301513672
+	REORDERED log prob: -109.21114826202393
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 30
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 86
+ORIGINAL: Kenya police have detained a pathologist hired by the state-run rights watchdog to probe claims that security forces tortured civilians during a crackdown on tribal militia , an official said Sunday .
+REORDERED: Kenya police have detained a pathologist hired by the state-run rights watchdog to probe claims that security forces tortured civilians during a crackdown on tribal militia , an official said Sunday .
+	ORIGINAL log prob: -96.40901947021484
+	REORDERED log prob: -96.4090884923935
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 32
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 87
+ORIGINAL: Queen Elizabeth is formally queen of Australia despite the country 's independence from Britain and the governor general acts as the monarch 's representative in Australia .
+REORDERED: Queen Elizabeth is the queen 's representative in Australia and the monarch formally acts as governor of Australia despite the country 's general independence from Britain .
+	ORIGINAL log prob: -95.78107452392578
+	REORDERED log prob: -87.78353977203369
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 27
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 88
+ORIGINAL: Liked Green Day 's " 21 Guns " but thought it lacked a certain -- how shall we say ? -- pizazz ?
+REORDERED: Liked -- shall we say it lacked a certain pizazz ? -- but how Green Day 's " 21 Guns " thought ?
+	ORIGINAL log prob: -117.98240661621094
+	REORDERED log prob: -111.01506185531616
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 23
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ The source sentence is colloquial. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 89
+ORIGINAL: " The government is not giving contractors adequate guidance on events , dates , and requirements for them to trim or redeploy workforces appropriately , " the commissioners said in the prepared statement .
+REORDERED: " The government is not giving adequate guidance on the requirements for contractors to trim workforces or redeploy them , " commissioners said in the statement , prepared appropriately , dates and events .
+	ORIGINAL log prob: -142.62440490722656
+	REORDERED log prob: -144.96637153625488
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 34
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 90
+ORIGINAL: A little more than a year later , Coleman 's parents were concerned that his verbal skills were not developing .
+REORDERED: A little more than a year later , Coleman 's parents were concerned that his verbal skills were not developing .
+	ORIGINAL log prob: -71.70101928710938
+	REORDERED log prob: -71.70104885101318
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 21
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 91
+ORIGINAL: The track he could dominate , and that is what he did in a thrilling final .
+REORDERED: The track he could dominate , and that is what he did in a thrilling final .
+	ORIGINAL log prob: -63.364418029785156
+	REORDERED log prob: -63.364428997039795
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 17
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 92
+ORIGINAL: The increased oversight should not come as a surprise for the industry .
+REORDERED: The increased oversight should not come as a surprise for the industry .
+	ORIGINAL log prob: -40.773040771484375
+	REORDERED log prob: -40.77304172515869
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 13
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 93
+ORIGINAL: The statement says both missiles launched and flew without trouble but the system 's sea-based X-band radar did not perform as expected and the interceptor missed its target .
+REORDERED: The system 's sea-based X-band radar and its interceptor missiles did not perform as expected but both flew without trouble and missed the target the launched statement says .
+	ORIGINAL log prob: -120.97647857666016
+	REORDERED log prob: -119.95328521728516
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 29
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ The reordered sentence contains strange constructions, but it possibly could be acceptable given adequate context, but I am marking it as unacceptable. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 94
+ORIGINAL: The slick , open-top three-seater can make the switch from car to boat in under 12 seconds , and has a top speed of 30 mph on the water .
+REORDERED: The three-seater , open-top car has a top speed of 30 mph in under 12 seconds , and can make the switch from boat to slick on the water .
+	ORIGINAL log prob: -124.5977783203125
+	REORDERED log prob: -113.5358510017395
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 30
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [x ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 95
+ORIGINAL: " When you walk around the areas that were devastated , it looked like hell today , " Gov. Arnold Schwarzenegger ( R ) said at a news conference Saturday .
+REORDERED: Gov. Arnold Schwarzenegger ( R ) said at a news conference Saturday , " When you walk around the areas that were devastated today , it looked like hell . "
+	ORIGINAL log prob: -76.92735290527344
+	REORDERED log prob: -89.14895391464233
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 31
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 96
+ORIGINAL: This could be the beginning of a 21st century 's civil rights movement challenge disparities in the justice system , he said , and said he planned a November march in Washington .
+REORDERED: This could be the beginning of a civil rights movement in the 21st century , he said , and challenge disparities in a justice system he said Washington 's planned November march .
+	ORIGINAL log prob: -117.93311309814453
+	REORDERED log prob: -118.37671947479248
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 33
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ ]; Ungrammatical: [ x]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 97
+ORIGINAL: The calendar was launched on 14 December and Eileen said that before Christmas it had already raised more than £ 2,000 .
+REORDERED: The Eileen calendar said that it had already raised more than £ 2,000 before Christmas and was launched on December 14 .
+	ORIGINAL log prob: -86.85298156738281
+	REORDERED log prob: -86.12475156784058
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 22
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 98
+ORIGINAL: The trial is scheduled over 13 days through December 18 but could last longer if more time is needed .
+REORDERED: The trial is scheduled over 13 days through December 18 but could last longer if more time is needed .
+	ORIGINAL log prob: -64.8965835571289
+	REORDERED log prob: -64.8965573310852
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 20
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 99
+ORIGINAL: He then told me I was free to go after saying I ought to be more careful .
+REORDERED: He then told me I ought to be more careful after saying I was free to go .
+	ORIGINAL log prob: -65.13676452636719
+	REORDERED log prob: -63.99279737472534
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 18
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+

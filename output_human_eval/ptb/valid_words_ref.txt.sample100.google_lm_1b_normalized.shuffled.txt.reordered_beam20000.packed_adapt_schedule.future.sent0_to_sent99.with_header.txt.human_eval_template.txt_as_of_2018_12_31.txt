@@ -1,0 +1,1800 @@
+----------------------------------
+SENTENCE NUMBER: 0
+ORIGINAL: Source : Telerate Systems Inc .
+REORDERED: Source : Telerate Systems Inc .
+	ORIGINAL log prob: -25.177400588989258
+	REORDERED log prob: -25.177391529083252
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 1; Number of LM unks: 1
+	Length: 6
+++Original sentence: Regular sentence: [ ]; Headline: [ ]; Source: [ x]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 1
+ORIGINAL: Some traders said that the closely watched Major Market Index , whose 20 stocks mimic the Dow industrials , didn 't lead yesterday 's big rally .
+REORDERED: Some traders said yesterday that the closely watched Dow industrials Market Index , whose stocks mimic the big 20 's rally , didn 't lead Major .
+	ORIGINAL log prob: -114.05193328857422
+	REORDERED log prob: -126.51914501190186
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 27
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 2
+ORIGINAL: If you guessed black-and-white snapshots , you 're right .
+REORDERED: If you guessed black-and-white snapshots , you 're right .
+	ORIGINAL log prob: -50.224365234375
+	REORDERED log prob: -50.224355697631836
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 10
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 3
+ORIGINAL: Here are price trends on the world 's major stock markets , as calculated by Morgan Stanley Capital International Perspective , Geneva .
+REORDERED: Here are the world 's major stock markets as calculated by Geneva Capital , Morgan Stanley , International Perspective on price trends .
+	ORIGINAL log prob: -114.02735137939453
+	REORDERED log prob: -107.54834318161011
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 23
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 4
+ORIGINAL: Yet parents demand them .
+REORDERED: Yet parents demand them .
+	ORIGINAL log prob: -32.105323791503906
+	REORDERED log prob: -32.1053147315979
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 5
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 5
+ORIGINAL: The messages resemble the Business Traveler , a daily dose of travel tips developed by Mr. Bear and sponsored by travel agencies in several major cities .
+REORDERED: The travel tips developed by Business Traveler resemble messages sponsored by several travel agencies in major cities , and a daily dose of the Mr. Bear .
+	ORIGINAL log prob: -133.02084350585938
+	REORDERED log prob: -134.43468952178955
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 27
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 6
+ORIGINAL: In a possible prelude to the resumption of talks between Boeing Co. and striking Machinists union members , a federal mediator said representatives of the two sides will meet with him tomorrow .
+REORDERED: In talks between representatives of Boeing Co. and Machinists union members , the two sides said a federal mediator will meet tomorrow with a possible prelude to the resumption of him striking .
+	ORIGINAL log prob: -97.1275863647461
+	REORDERED log prob: -116.70379686355591
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 33
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ borderline]]]
+
+----------------------------------
+SENTENCE NUMBER: 7
+ORIGINAL: Good will is the excess of cost of an acquired firm , operating unit or assets over the current or fair market value of those assets .
+REORDERED: fair market value of those assets or an excess of current assets of the acquired firm or the operating unit , is Good will cost over .
+	ORIGINAL log prob: -128.30955505371094
+	REORDERED log prob: -126.85082292556763
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 27
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 8
+ORIGINAL: They said the exchange 's trading procedures , personnel , equipment and links with other exchanges couldn 't have performed better .
+REORDERED: They said other exchanges couldn 't have performed better with the exchange 's trading links , equipment , procedures and personnel .
+	ORIGINAL log prob: -102.23078918457031
+	REORDERED log prob: -97.95493936538696
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 22
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 9
+ORIGINAL: Shares also closed sharply lower across Europe , particularly in Frankfurt , although London and a few other markets recovered some ground after stocks began to rebound in New York .
+REORDERED: Shares in London and New York also closed sharply lower , although Frankfurt recovered some ground after stocks began to rebound across Europe , particularly in a few other markets .
+	ORIGINAL log prob: -111.77313232421875
+	REORDERED log prob: -99.94797468185425
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 31
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 10
+ORIGINAL: Commodity futures prices generally reflected the stability of the stock market following its plunge Friday .
+REORDERED: Commodity futures prices reflected the stability of the stock market generally following its plunge Friday .
+	ORIGINAL log prob: -71.05062103271484
+	REORDERED log prob: -70.7001256942749
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 16
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ x]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 11
+ORIGINAL: A group of institutional investors in Telerate Inc. said that Dow Jones & Co. 's $ 18-a-share offer for the electronic financial information services company is " grossly inadequate . "
+REORDERED: Telerate A $ 18-a-share offer for Dow Jones & Co. is " grossly inadequate " said institutional investors in the electronic information company 's financial services group Inc. of that .
+	ORIGINAL log prob: -102.74893188476562
+	REORDERED log prob: -125.79801225662231
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 1; Number of LM unks: 2
+	Length: 31
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 12
+ORIGINAL: But for the fiscal year ended July 31 , 1988 , the most recent period for which results were broken out , the Perkin-Elmer unit accounted for more than half the $ 145 million in sales recorded by the company 's government systems sector .
+REORDERED: But the company 's most recent fiscal year , which ended July 31 , accounted for more than half the $ 145 million in unit sales recorded for the period , the results were broken out by the government sector for 1988 . systems Perkin-Elmer
+	ORIGINAL log prob: -154.96868896484375
+	REORDERED log prob: -191.66071844100952
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 45
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [x ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 13
+ORIGINAL: Brokers and fund managers said the region 's markets were reacting to Friday 's Wall Street plunge even though that decline was due to local factors such as failed corporate buy-outs and a deteriorating junk-bond market .
+REORDERED: Brokers and fund managers said that markets were reacting to Friday 's Wall Street plunge even though the decline was due to factors such as failed corporate buy-outs and a deteriorating local region 's junk-bond market .
+	ORIGINAL log prob: -146.50924682617188
+	REORDERED log prob: -147.96287298202515
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 37
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 14
+ORIGINAL: No sector of the market has been spared during the past two days ' gyrations .
+REORDERED: No sector of the market has been spared during the past two days ' gyrations .
+	ORIGINAL log prob: -57.59569549560547
+	REORDERED log prob: -57.59572887420654
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 16
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 15
+ORIGINAL: The reserve addition placed the parent of Morgan Guaranty Trust Co. among a few major U.S. banks that have covered nearly all their medium and long-term portfolios to less-developed countries with reserves .
+REORDERED: The addition of reserve parent Guaranty Trust Co. to their portfolios placed Morgan among the few major U.S. banks with a medium and long-term reserves that have covered nearly all less-developed countries .
+	ORIGINAL log prob: -178.8566131591797
+	REORDERED log prob: -154.51121187210083
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 33
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 16
+ORIGINAL: Typical , perhaps , was Batterymarch 's Dean LeBaron .
+REORDERED: Typical , perhaps , was Dean 's Batterymarch LeBaron .
+	ORIGINAL log prob: -64.5250473022461
+	REORDERED log prob: -58.34552717208862
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 1; Number of LM unks: 1
+	Length: 10
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 17
+ORIGINAL: He took the company public in an offering that netted Applied about $ 12.6 million , which helped launch the company 's acquisition program .
+REORDERED: He helped launch Applied 's acquisition program , which netted the company about $ 12.6 million in an offering that took the company public .
+	ORIGINAL log prob: -98.07598876953125
+	REORDERED log prob: -92.23317289352417
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 25
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 18
+ORIGINAL: These high-yielding loans in effect replaced some low-yielding assets such as inter-bank loans , which were allowed to decrease .
+REORDERED: These low-yielding loans replaced inter-bank loans such as some high-yielding assets , which in effect were allowed to decrease .
+	ORIGINAL log prob: -106.63713836669922
+	REORDERED log prob: -96.99696445465088
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 20
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 19
+ORIGINAL: The key U.S. and foreign annual interest rates below are a guide to general levels but don 't always represent actual transactions .
+REORDERED: The levels below don 't always represent actual interest rates but are a key general guide to annual U.S. and foreign transactions .
+	ORIGINAL log prob: -117.9027099609375
+	REORDERED log prob: -101.61908864974976
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 23
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 20
+ORIGINAL: Such loans to Argentina also remain classified as non-accruing , costing the bank $ 10 million of interest income in the third period .
+REORDERED: Such loans also remain classified as non-accruing , costing the bank $ 10 million in the third period of interest income to Argentina .
+	ORIGINAL log prob: -119.77639770507812
+	REORDERED log prob: -114.68735122680664
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 24
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 21
+ORIGINAL: Hertz Equipment had operating profit before depreciation of $ 90 million on revenue of $ 150 million in 1988 .
+REORDERED: Hertz Equipment had operating profit of $ 150 million on revenue of $ 90 million before depreciation in 1988 .
+	ORIGINAL log prob: -87.39413452148438
+	REORDERED log prob: -85.84240102767944
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 20
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ It is semantically acceptable in so far as the reordered sentence could be in the context of accounting errors. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 22
+ORIGINAL: The dollar also rebounded , while bond prices plummeted and Treasury bill rates soared .
+REORDERED: The dollar rebounded and bond prices plummeted , while Treasury bill rates also soared .
+	ORIGINAL log prob: -59.18549346923828
+	REORDERED log prob: -58.29501914978027
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 15
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ x]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 23
+ORIGINAL: Budget director Darman said he won 't give federal agencies much leeway in coping with Gramm-Rudman spending cuts , which took effect yesterday .
+REORDERED: Budget director yesterday said he won 't give federal agencies much leeway in coping with spending cuts , which Darman took effect Gramm-Rudman .
+	ORIGINAL log prob: -134.31004333496094
+	REORDERED log prob: -128.44569540023804
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 24
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 24
+ORIGINAL: But they search for ways to limit the damage .
+REORDERED: But they search for ways to limit the damage .
+	ORIGINAL log prob: -32.80363082885742
+	REORDERED log prob: -32.80362796783447
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 10
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 25
+ORIGINAL: The curbs would cover all but a small percentage of flights , and represent an expansion of the current ban on flights of less than two hours .
+REORDERED: The ban on flights of less than two hours would cover all but a small percentage of flights , and represent an expansion of the current curbs .
+	ORIGINAL log prob: -83.12647247314453
+	REORDERED log prob: -90.3961853981018
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 28
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 26
+ORIGINAL: Mr. Sim is confident that the drive to dominate certain niche markets will work at Barry Wright as it has at Applied .
+REORDERED: Mr. Sim is confident that the drive to dominate certain niche markets will work at Applied as it has at Barry Wright .
+	ORIGINAL log prob: -125.13782501220703
+	REORDERED log prob: -124.67874240875244
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 23
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 27
+ORIGINAL: The Organization of Petroleum Exporting Countries increased its production ceiling for the fourth quarter based on projections of robust demand .
+REORDERED: The Organization of Petroleum Exporting Countries increased its production ceiling based on projections of robust demand for the fourth quarter .
+	ORIGINAL log prob: -61.83694076538086
+	REORDERED log prob: -60.171630859375
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 21
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 28
+ORIGINAL: While the advance cheered investors who feared a 1987-style crash would occur yesterday , it was strictly a big-stock rally fed by huge buying by bargain-hunting institutions and program traders .
+REORDERED: While the 1987-style big-stock rally was fed by bargain-hunting buying by investors who cheered a huge advance yesterday , traders and institutions feared it would occur strictly a crash program .
+	ORIGINAL log prob: -152.886962890625
+	REORDERED log prob: -148.89741897583008
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 1; Number of LM unks: 2
+	Length: 31
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 29
+ORIGINAL: The U.S. is in the habit of arranging peace settlements and then washing its hands over the tragic results .
+REORDERED: The U.S. is in the habit of washing its hands over the settlements and then arranging peace tragic results .
+	ORIGINAL log prob: -92.26464080810547
+	REORDERED log prob: -90.12027788162231
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 20
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 30
+ORIGINAL: Blue Arrow of Britain plans to return to the name Manpower and take a big write-off .
+REORDERED: Manpower plans to take a big write-off and return to Britain of the Blue Arrow name .
+	ORIGINAL log prob: -97.05879974365234
+	REORDERED log prob: -82.78816747665405
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 17
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [x ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 31
+ORIGINAL: By 9 : 45 , the industrial average had dropped 27 points .
+REORDERED: By 9 : 45 , the industrial average had dropped 27 points .
+	ORIGINAL log prob: -49.75090789794922
+	REORDERED log prob: -49.75096559524536
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 13
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 32
+ORIGINAL: Stock traders were buoyed -- because an upturn in the MMI had also started the recovery in stocks on the Tuesday following Black Monday .
+REORDERED: Stock traders were also buoyed on Tuesday following an upturn in the Black Monday stocks -- because the recovery had started in the MMI .
+	ORIGINAL log prob: -134.4971466064453
+	REORDERED log prob: -116.54331064224243
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 25
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 33
+ORIGINAL: While it is possible that the Big Green initiative will be ruled unconstitutional , it is of course conceivable that in modern California it could slide through .
+REORDERED: While of course it is possible that it could be ruled unconstitutional , it is conceivable that the Big Green initiative will slide through in modern California .
+	ORIGINAL log prob: -115.19522094726562
+	REORDERED log prob: -110.15259885787964
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 28
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ x]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 34
+ORIGINAL: The Dow accelerated its slide , losing 63.52 in the first 40 minutes of trading .
+REORDERED: The Dow accelerated its slide in the first 40 minutes of trading , losing 63.52 .
+	ORIGINAL log prob: -75.30558013916016
+	REORDERED log prob: -75.38138484954834
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 16
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ x]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 35
+ORIGINAL: More money for HUD will increase the deficit and destabilize the economy ; more money to municipalities that are wrecking their local housing markets will further insulate them from the destructive effects of their policies .
+REORDERED: More money for HUD will further destabilize local municipalities and insulate them from the destructive effects of the housing markets that are wrecking the economy ; their policies will increase their deficit to more money .
+	ORIGINAL log prob: -147.69155883789062
+	REORDERED log prob: -146.91991138458252
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 36
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 36
+ORIGINAL: " We have half the experts saying one thing and half the other " about the course of the economy .
+REORDERED: " We have about half the experts saying one thing and the other half the course of the economy . "
+	ORIGINAL log prob: -81.07461547851562
+	REORDERED log prob: -77.3119683265686
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 21
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ x]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 37
+ORIGINAL: " These increases were partly offset by lower trading-related " income , the bank said .
+REORDERED: " These increases were partly offset by lower trading-related income , " the bank said .
+	ORIGINAL log prob: -57.062137603759766
+	REORDERED log prob: -46.51324939727783
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 16
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ x]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 38
+ORIGINAL: German and Dutch investors reportedly loaded up on Kellogg Co .
+REORDERED: Dutch and German investors reportedly loaded up on Kellogg Co .
+	ORIGINAL log prob: -65.41361236572266
+	REORDERED log prob: -64.49822854995728
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 11
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 39
+ORIGINAL: In the first nine months of 1988 , net was $ 85 million , or $ 3.76 a share .
+REORDERED: In the first nine months of 1988 , net was $ 85 million , or $ 3.76 a share .
+	ORIGINAL log prob: -65.64639282226562
+	REORDERED log prob: -65.64643573760986
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 20
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 40
+ORIGINAL: Net rose to $ 185.1 million , or $ 1.55 a share , from $ 167.9 million , or $ 1.47 a share , a year earlier .
+REORDERED: Net rose to $ 185.1 million , or $ 1.55 a share , from $ 167.9 million , or $ 1.47 a share , a year earlier .
+	ORIGINAL log prob: -62.957794189453125
+	REORDERED log prob: -62.95778799057007
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 28
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 41
+ORIGINAL: Bonds : Shearson Lehman Hutton Treasury index 3393.51 , off
+REORDERED: Shearson Lehman , Hutton 3393.51 Treasury Bonds off index :
+	ORIGINAL log prob: -112.810791015625
+	REORDERED log prob: -88.32439613342285
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 1; Number of LM unks: 1
+	Length: 10
+++Original sentence: Regular sentence: [ ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ x]
+++Original sentence: Grammatical: [ ]; Ungrammatical: [ x]
+++Original sentence: Semantically acceptable: [ ]; Semantically unacceptable: [x ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ This is difficult to evaluate, because the source is difficult to interpret out of context and appears to be malformed. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 42
+ORIGINAL: But in a meeting after the market closed yesterday , Shearson executives decided not to go ahead with the stock-market ad .
+REORDERED: But in a meeting after the stock-market market closed yesterday , Shearson executives decided not to go ahead with the ad .
+	ORIGINAL log prob: -90.15091705322266
+	REORDERED log prob: -85.58374166488647
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 22
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ Well, there could be a market for stock-markets, but I'm marking as semantically unacceptable here. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 43
+ORIGINAL: But with so many shares now held in the U.S. , Blue Arrow reports its earnings two ways , based on both U.K. and U.S. accounting standards .
+REORDERED: But based on U.S. accounting standards in both the U.S. and U.K. , Blue Arrow now reports its earnings two ways , with so many shares held .
+	ORIGINAL log prob: -118.47867584228516
+	REORDERED log prob: -115.50386953353882
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 28
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 44
+ORIGINAL: In London , the view from the trading floor of an American securities firm , Jefferies & Co. , also was troubling .
+REORDERED: In an American securities firm Jefferies & Co. of London , the view from the trading floor was , also , troubling .
+	ORIGINAL log prob: -82.69944763183594
+	REORDERED log prob: -90.81001424789429
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 23
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 45
+ORIGINAL: Among rail and highway accounts , the agreement provides $ 615 million for Amtrak , including $ 85 million for capital improvements .
+REORDERED: Among highway improvements , the agreement provides $ 85 million for Amtrak and $ 615 million for rail , including capital accounts .
+	ORIGINAL log prob: -91.43328857421875
+	REORDERED log prob: -96.18814182281494
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 23
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 46
+ORIGINAL: If all the bondholders and holders of one million common shares accept the offer , BSN will increase its debt by $ 9 million , but it also will recognize a $ 2 million gain from retiring the old debt , said Michael J. Blumenfeld , president .
+REORDERED: If its retiring debt holders accept the offer , bondholders will gain 2 million common shares and $ 9 million of debt , but it will also increase the old one , said Blumenfeld , BSN president Michael J. million from the $ all a recognize by .
+	ORIGINAL log prob: -187.94256591796875
+	REORDERED log prob: -223.22285413742065
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 48
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 47
+ORIGINAL: At 12 : 49 p.m. , the index hit its low , 2029.7 , off 204.2 points .
+REORDERED: At 12 : 49 p.m. , the index hit 2029.7 , off 204.2 points , its low .
+	ORIGINAL log prob: -72.77833557128906
+	REORDERED log prob: -69.09316444396973
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 1; Number of LM unks: 1
+	Length: 18
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 48
+ORIGINAL: CMS Energy Corp. , Jackson , Mich. , said it has resumed the purchase of its common stock under a program approved by its directors in 1987 .
+REORDERED: its common stock under a purchase program approved by the directors of CMS Energy Corp. Jackson , Mich. in 1987 , has resumed its , it said .
+	ORIGINAL log prob: -123.7933349609375
+	REORDERED log prob: -126.1004753112793
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 28
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 49
+ORIGINAL: Hard on the heels of Friday 's 190-point stock-market plunge and the uncertainty that 's followed , a few big brokerage firms are rolling out new ads trumpeting a familiar message : Keep on investing , the market 's just fine .
+REORDERED: Hard on the heels of Friday 's stock-market 190-point plunge , a few big brokerage firms are rolling out ads trumpeting a familiar message : Keep investing , and the market 's just fine on the new uncertainty that 's followed .
+	ORIGINAL log prob: -173.07672119140625
+	REORDERED log prob: -170.67541313171387
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 42
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 50
+ORIGINAL: By a 6-4 margin , House negotiators initially rejected last night a Senate provision covering all domestic flights .
+REORDERED: By a 6-4 margin , Senate negotiators last night initially rejected a House provision covering all domestic flights .
+	ORIGINAL log prob: -92.57062530517578
+	REORDERED log prob: -88.56675910949707
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 19
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 51
+ORIGINAL: With sell orders piled up from Friday , about half the stocks in the Dow couldn 't open on time .
+REORDERED: With about half the orders piled up in time , Dow couldn 't sell stocks from the open on Friday .
+	ORIGINAL log prob: -85.48192596435547
+	REORDERED log prob: -86.12927150726318
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 21
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 52
+ORIGINAL: BSN also is offering $ 850 face amount of new notes and 64 common-stock warrants for each $ 1,000 face amount of its convertible debt outstanding .
+REORDERED: BSN is also offering $ 850 convertible notes for each $ 1,000 face amount of its outstanding debt and common-stock face amount of 64 new warrants .
+	ORIGINAL log prob: -146.62680053710938
+	REORDERED log prob: -121.1585521697998
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 27
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ The source sentence has somewhat technical financial terms that get confused in the reordered sentence. I'm marking it as unacceptable. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 53
+ORIGINAL: Work at Boeing continues with supervisors and other non-striking personnel manning the lines .
+REORDERED: Work continues with non-striking supervisors and other personnel manning the lines at Boeing .
+	ORIGINAL log prob: -86.8187026977539
+	REORDERED log prob: -78.0360655784607
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 14
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ x]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 54
+ORIGINAL: Mr. Freund , former chief economist of the New York Stock Exchange , is a professor of economics at Pace University 's business school in New York .
+REORDERED: Mr. Freund , a former economics professor at Pace University in New York , is chief economist of the New York Stock Exchange 's school of business .
+	ORIGINAL log prob: -67.78941345214844
+	REORDERED log prob: -75.07133722305298
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 28
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 55
+ORIGINAL: Absent other working capital , he said , the RTC would be forced to delay other thrift resolutions until cash could be raised by selling the bad assets .
+REORDERED: Absent other resolutions , the RTC could be forced to delay selling bad assets until the thrift cash would be raised by other working capital , he said .
+	ORIGINAL log prob: -126.95344543457031
+	REORDERED log prob: -123.49811935424805
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 29
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ The reordered sentence is somewhat awkward, but I'm marking as acceptable here. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 56
+ORIGINAL: Among other Asian and Pacific markets , Malaysia and Singapore had the biggest losses , with the Kuala Lumpur composite index in Malaysia falling 11.5 % and Singapore 's Straits Times Industrial Index down 10 % .
+REORDERED: Among Asian markets , Malaysia 's Kuala Lumpur composite index , Singapore Straits Times and Malaysia Pacific Industrial Index had the biggest losses with 11.5 % falling and 10 % in Singapore and the other down .
+	ORIGINAL log prob: -103.75578308105469
+	REORDERED log prob: -137.71459770202637
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 37
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 57
+ORIGINAL: In the opening game , besides Steinbach and Stewart , there was Walt Weiss , a twiggy-looking , second-year shortstop who had lost a couple months of the season to knee surgery .
+REORDERED: twiggy-looking Weiss , a second-year shortstop who had knee surgery a couple months and lost the opening game of the season to Stewart , was there , besides Steinbach , In Walt .
+	ORIGINAL log prob: -153.09226989746094
+	REORDERED log prob: -156.43456077575684
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 1; Number of LM unks: 1
+	Length: 33
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 58
+ORIGINAL: Investors big and small say they learned valuable lessons since the 1987 crash : In this age of computerized trading , huge corrections or runups in a few hours ' time must be expected .
+REORDERED: Investors and runups say they learned valuable lessons since the 1987 crash : In this age of computerized trading , big or small corrections must be expected in a huge few hours ' time .
+	ORIGINAL log prob: -144.49998474121094
+	REORDERED log prob: -144.97939443588257
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 1; Number of LM unks: 1
+	Length: 35
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [x ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 59
+ORIGINAL: " What the stock market did was cause the rise to take place earlier than it would have happened , " said Mr. Cardillo .
+REORDERED: " What the stock market did was take place earlier than it would have happened to cause the rise , " Mr. Cardillo said .
+	ORIGINAL log prob: -82.05587005615234
+	REORDERED log prob: -86.25335645675659
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 25
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 60
+ORIGINAL: Institutional investors and bankers , many of whom spent the night before in their offices watching Far Eastern markets , were cautiously optimistic after the mild 1.8 % decline in Tokyo stock prices .
+REORDERED: Institutional investors , many of whom were cautiously optimistic after the 1.8 % decline in Tokyo stock prices , spent the night in their offices watching Far Eastern bankers and markets before mild .
+	ORIGINAL log prob: -139.04010009765625
+	REORDERED log prob: -145.77670526504517
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 34
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 61
+ORIGINAL: Transports plunged on takeover disappointments in two airline stocks , UAL and AMR , which each fell more than 20 % when they reopened for trading yesterday after being suspended Friday afternoon .
+REORDERED: AMR and UAL airline stocks , which each fell more than 20 % in afternoon trading on Friday , plunged yesterday when they reopened after being suspended for two Transports takeover disappointments .
+	ORIGINAL log prob: -157.64866638183594
+	REORDERED log prob: -152.40656089782715
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 33
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 62
+ORIGINAL: The utility company currently has about 82.1 million shares outstanding .
+REORDERED: The utility company currently has about 82.1 million shares outstanding .
+	ORIGINAL log prob: -46.46578598022461
+	REORDERED log prob: -46.46575927734375
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 11
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 63
+ORIGINAL: One customer , Dayna Brunsdon , says she spurned a color portrait for black and white because " it 's more dramatic .
+REORDERED: One customer , Dayna Brunsdon , says she spurned a color portrait because " it 's more dramatic for black and white .
+	ORIGINAL log prob: -121.2288589477539
+	REORDERED log prob: -119.52138376235962
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 23
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ x]; Semantically different: [ ]
+Notes: [[[ Note that there's no closing quotation in the source, so the remaining context of the quote (presumably, the next sentence in the source) is lost. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 64
+ORIGINAL: The stock has since softened , trading around $ 25 a share last week and closing yesterday at $ 23.00 in national over-the-counter trading .
+REORDERED: The stock has softened since last week , trading around $ 25 a share and closing at $ 23.00 yesterday in national over-the-counter trading .
+	ORIGINAL log prob: -100.2362060546875
+	REORDERED log prob: -96.21203851699829
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 25
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 65
+ORIGINAL: The S&L bailout agency would be restricted by a new bill in how it raises capital .
+REORDERED: The agency would be restricted in how it raises new capital by a S&L bailout bill .
+	ORIGINAL log prob: -81.9319839477539
+	REORDERED log prob: -67.88266611099243
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 1; Number of LM unks: 1
+	Length: 17
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ I'm allowing the stylistic choice of 'a' before the acronym here in marking grammaticality. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 66
+ORIGINAL: " It was simply overbought , " he said , and selling by funds that are computer guided helped depress prices .
+REORDERED: It was " simply overbought selling , " he said , and helped depress prices that are guided by computer funds .
+	ORIGINAL log prob: -104.19874572753906
+	REORDERED log prob: -93.77393913269043
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 22
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ The reordered sentence is awkward but not not acceptable in the context of newswire. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 67
+ORIGINAL: The company earned $ 36 million , or 57 cents a share , in the year-ago quarter .
+REORDERED: The company earned $ 57 million , or 36 cents a share , in the year-ago quarter .
+	ORIGINAL log prob: -35.086158752441406
+	REORDERED log prob: -33.49449396133423
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 18
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 68
+ORIGINAL: For the nine months , the newspaper chain had almost a 23 % increase in profit to $ 23.6 million , or 83 cents a share , from $ 19.2 million , or 68 cents a share .
+REORDERED: $ 23.6 million , a 68 % increase from $ 19.2 million , or 23 cents a share , in the nine months to 83 cents a share , the chain had profit almost newspaper For or .
+	ORIGINAL log prob: -98.18688201904297
+	REORDERED log prob: -160.8947343826294
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 38
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [x ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 69
+ORIGINAL: To spend a carefree , idle day , When duty calls , to pay no heed , To while the precious hours away -- Character is what you need .
+REORDERED: To while away a carefree day is no idle duty , you need to heed the calls , spend precious hours , pay -- what Character To , When .
+	ORIGINAL log prob: -183.5184326171875
+	REORDERED log prob: -155.30235767364502
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 30
+++Original sentence: Regular sentence: [ ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ x]
+++Original sentence: Grammatical: [ ]; Ungrammatical: [ x]
+++Original sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ in-line poem, phrases; not evaluated ]]]
+
+----------------------------------
+SENTENCE NUMBER: 70
+ORIGINAL: The program traders were in there , too , of course .
+REORDERED: The program traders , of course , were in there too .
+	ORIGINAL log prob: -49.49390411376953
+	REORDERED log prob: -48.22946071624756
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 12
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ x]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 71
+ORIGINAL: The upshot of the downshoot is that the A 's go into San Francisco 's Candlestick Park tonight up two games to none in the best-of-seven fest .
+REORDERED: The upshot of the downshoot fest in San Francisco 's Candlestick Park tonight is that the A 's go two games to none up into the best-of-seven .
+	ORIGINAL log prob: -116.52045440673828
+	REORDERED log prob: -116.73137617111206
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 1; Number of LM unks: 1
+	Length: 28
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ 'downshoot' is an LM unknown; incidentally, it's also an annotator unknown; the source is colloquial; marking the reordered as semantically problematic, although it is perhaps borderline given the colloquial language ]]]
+
+----------------------------------
+SENTENCE NUMBER: 72
+ORIGINAL: This time , however , many small investors may have been hurt by acting so swiftly .
+REORDERED: This time , however , many small investors may have been hurt by acting so swiftly .
+	ORIGINAL log prob: -62.172088623046875
+	REORDERED log prob: -62.172034740448
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 17
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 73
+ORIGINAL: He was flawless afield ( ditto in game two ) , moved a runner along in the A 's three-run second inning , and homered for his team 's final tally .
+REORDERED: He homered in a three-run second inning , moved along in the game 's final two and was flawless ( ditto for his team 's runner tally afield , A ) .
+	ORIGINAL log prob: -151.34544372558594
+	REORDERED log prob: -142.08592319488525
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 32
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 74
+ORIGINAL: What doesn 't belong here ?
+REORDERED: What doesn 't belong here ?
+	ORIGINAL log prob: -24.594528198242188
+	REORDERED log prob: -24.594534873962402
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 6
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 75
+ORIGINAL: " It was bedlam on the upside , " said one Big Board specialist .
+REORDERED: " It was bedlam , " said one upside specialist on the Big Board .
+	ORIGINAL log prob: -63.96859359741211
+	REORDERED log prob: -61.232380867004395
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 15
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 76
+ORIGINAL: Dealers said morning activity was hectic as prices dropped in response to gains in the stock market and losses in Treasury securities , but trading slowed to moderate levels in the afternoon .
+REORDERED: Dealers said Treasury securities prices dropped in response to stock market gains in afternoon trading , but activity slowed to moderate levels in the morning and was as hectic in the losses .
+	ORIGINAL log prob: -119.56288146972656
+	REORDERED log prob: -128.34689092636108
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 33
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ The reordered sentence is awkward but acceptable. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 77
+ORIGINAL: NP Acquisition Co. , a National Pizza unit , plans to begin a tender offer for Skipper 's on Friday , conditioned on at least two-thirds of Skipper 's shares being tendered .
+REORDERED: Acquisition Co. plans to begin a tender offer , conditioned on at least two-thirds of a unit 's shares being tendered on Friday , for National Skipper 's Pizza NP , Skipper .
+	ORIGINAL log prob: -176.24241638183594
+	REORDERED log prob: -164.81689643859863
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 33
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[  ]]]
+
+----------------------------------
+SENTENCE NUMBER: 78
+ORIGINAL: Now , that 's reactionary : Letter Carriers union president Vincent Sombrotto accuses Philadelphia postmaster Charles James of " 12th century ... oppressive management tactics .
+REORDERED: Letter Carriers union president James Sombrotto accuses management of oppressive tactics . 12th century postmaster Charles Vincent , Philadelphia : " Now that 's reactionary ...
+	ORIGINAL log prob: -175.0703582763672
+	REORDERED log prob: -155.0975685119629
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 1
+	Length: 26
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ Note that the source sentence has an unusual structure and is the beginning of an unfinished quote (i.e., it has an unmatched quotation mark). It's marked as semantically unacceptable, because of the connection between postmasters in Philadelphia and the 12th century, but it could be acceptable in the context of a joke, metaphor, etc., highlighting the challenge of evaluating the semantic acceptability of these sentences without surrounding context. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 79
+ORIGINAL: Such is his reputation among the East Bay Bashers that when he hit his first career home run last season , the fan who caught it agreed to turn the ball over to him in return for an autograph .
+REORDERED: Such is his reputation that when he hit his first career home run last season , the fan who caught the ball in return for an autograph agreed to turn it over to him among the East Bay Bashers .
+	ORIGINAL log prob: -144.7794952392578
+	REORDERED log prob: -154.97251176834106
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 40
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [x ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 80
+ORIGINAL: Even if one buys into the whole greenhouse theory , it is inconceivable that reductions in a single state could have any impact on what is billed as a global problem .
+REORDERED: Even if one buys into the whole theory , it is inconceivable that a single state could have any impact on greenhouse reductions in what is billed as a global problem .
+	ORIGINAL log prob: -120.7503433227539
+	REORDERED log prob: -115.47335004806519
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 32
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ x]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 81
+ORIGINAL: The New York Stock Exchange now has the capacity to handle a volume of nearly a billion shares a day .
+REORDERED: The New York Stock Exchange now has the capacity to handle a volume of nearly a billion shares a day .
+	ORIGINAL log prob: -55.8947868347168
+	REORDERED log prob: -55.8947868347168
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 21
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 82
+ORIGINAL: Red figures on the screens indicated falling stocks ; blue figures , rising stocks .
+REORDERED: Red stocks on the blue screens ; stocks falling , rising figures figures indicated .
+	ORIGINAL log prob: -94.19145202636719
+	REORDERED log prob: -89.29074048995972
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 15
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [x ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 83
+ORIGINAL: All the selling had pushed stocks to such cheap values that big investment banks and major money management firms started buying stocks heavily .
+REORDERED: All the major investment banks started buying stocks heavily and selling cheap stocks that had pushed such values to big money management firms .
+	ORIGINAL log prob: -111.47499084472656
+	REORDERED log prob: -100.80664205551147
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 24
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 84
+ORIGINAL: FMC Corp. and Baxter International say unions also won 't like plant relocations and needed restructuring , which means layoffs .
+REORDERED: Baxter International and FMC Corp. also say unions won 't like plant relocations , which means layoffs and restructuring needed .
+	ORIGINAL log prob: -118.23371887207031
+	REORDERED log prob: -102.4723072052002
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 21
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 85
+ORIGINAL: The average of interbank offered rates for dollar deposits in the London market based on quotations at five major banks .
+REORDERED: The average based on London interbank offered rates for dollar deposits at five major banks of quotations in the market .
+	ORIGINAL log prob: -104.11570739746094
+	REORDERED log prob: -88.9263482093811
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 21
+++Original sentence: Regular sentence: [ ]; Headline: [ ]; Source: [ ]; Other (see Notes): [x ]
+++Original sentence: Grammatical: [ ]; Ungrammatical: [ x]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ I'm marking the source as ungrammatical. This was perhaps a caption for a figure or table. ]]]
+
+----------------------------------
+SENTENCE NUMBER: 86
+ORIGINAL: If the firms are serious , however , why limit the practice to the poor , maligned analysts whose ability to see into the future is fragile at best ?
+REORDERED: If , however , the ability to see into the future is fragile at best , why limit the practice to firms whose analysts maligned the poor are serious ?
+	ORIGINAL log prob: -124.89285278320312
+	REORDERED log prob: -128.84537839889526
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 30
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [x ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 87
+ORIGINAL: " Anybody can vote as they want , " said Rep. William Lehman ( D. , Fla. ) , head of the House conferees .
+REORDERED: " Anybody can vote as they want , " said Rep. William Lehman ( D. , Fla. ) , the head of House conferees .
+	ORIGINAL log prob: -107.69884490966797
+	REORDERED log prob: -106.38459014892578
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 25
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ x]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 88
+ORIGINAL: Other companies are introducing related products .
+REORDERED: Other companies are introducing related products .
+	ORIGINAL log prob: -31.165666580200195
+	REORDERED log prob: -31.165671348571777
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 7
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 89
+ORIGINAL: PROPOSALS ARISE for coping with the shortage of nurses .
+REORDERED: PROPOSALS for coping with the ARISE shortage of nurses .
+	ORIGINAL log prob: -81.62570190429688
+	REORDERED log prob: -65.77468299865723
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 10
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ This is potentially challenging given the upper-cased tokens.]]]
+
+----------------------------------
+SENTENCE NUMBER: 90
+ORIGINAL: Mr. Sim considers the new unit 's operations " fundamentally sound " and adds that Barry Wright has been fairly successful in moving into markets that haven 't interested larger competitors .
+REORDERED: Mr. Sim considers the unit 's operations " fundamentally sound " and adds that larger competitors interested in moving into new markets haven 't been fairly successful that Barry Wright has .
+	ORIGINAL log prob: -152.2247314453125
+	REORDERED log prob: -148.04757261276245
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 32
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 91
+ORIGINAL: Asked what stocks the computer bought , the money manager says , " I don 't know . "
+REORDERED: Asked what don 't know , the money manager says , " I bought the computer stocks . "
+	ORIGINAL log prob: -67.08972930908203
+	REORDERED log prob: -71.58826494216919
+	Exact match: False
+	Search error: True
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 19
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [ x]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 92
+ORIGINAL: The ratification follows a 23-day strike against the Philadelphia-based company .
+REORDERED: The ratification against the Philadelphia-based company follows a 23-day strike .
+	ORIGINAL log prob: -67.43574523925781
+	REORDERED log prob: -66.23758363723755
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 11
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 93
+ORIGINAL: The company 's restructuring includes plans to split into three sectors , to phase out domestic printer manufacturing operations and to sell its New England subsidiary .
+REORDERED: The company 's restructuring includes plans to split manufacturing operations into three sectors , and phase out its domestic printer subsidiary to sell to New England .
+	ORIGINAL log prob: -105.65363311767578
+	REORDERED log prob: -105.62849521636963
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 27
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 94
+ORIGINAL: Jefferies spent most of its energies in the morning trying to match buyers and sellers , and there weren 't many buyers .
+REORDERED: Jefferies spent most of its energies trying to match buyers and sellers , and there weren 't many buyers in the morning .
+	ORIGINAL log prob: -93.10269927978516
+	REORDERED log prob: -88.14914417266846
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 23
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 95
+ORIGINAL: Several analysts said Malaysia and Singapore had the biggest losses because they are relatively open to rapid cash flows .
+REORDERED: Several analysts said Singapore and Malaysia had the biggest losses because they are relatively open to rapid cash flows .
+	ORIGINAL log prob: -83.0492935180664
+	REORDERED log prob: -81.36101579666138
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 20
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [x ]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [x ]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 96
+ORIGINAL: In American Stock Exchange composite trading yesterday , Dataproducts shares jumped 62.5 cents to close at $ 9.375 .
+REORDERED: In American Stock Exchange composite trading , Dataproducts shares jumped 62.5 cents yesterday to close at $ 9.375 .
+	ORIGINAL log prob: -81.57051849365234
+	REORDERED log prob: -79.66795825958252
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 1; Number of LM unks: 1
+	Length: 19
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [x ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 97
+ORIGINAL: By the time trading officially got under way at 9 a.m. , the news from Asia was in .
+REORDERED: By the time trading officially got under way at 9 a.m. , the news was in from Asia .
+	ORIGINAL log prob: -66.26943969726562
+	REORDERED log prob: -63.600977420806885
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 19
+++Original sentence: Regular sentence: [ x]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 98
+ORIGINAL: DD Acquisition Corp. said it extended its $ 45-a-share offer for Dunkin ' Donuts Inc. to Nov. 1 from yesterday .
+REORDERED: Dunkin ' Donuts Inc. said it extended its 45-a-share offer for $ 1 Nov. from DD Acquisition Corp. to yesterday .
+	ORIGINAL log prob: -132.6049041748047
+	REORDERED log prob: -103.38287258148193
+	Exact match: False
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 1
+	Length: 21
+++Original sentence: Regular sentence: [x ]; Headline: [ ]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [x ]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ ]; Ungrammatical: [x ]
+--Reordered sentence: Semantically acceptable: [ ]; Semantically unacceptable: [ x]
+**Original vs. Reordered sentence: Semantically identical: [ ]; Semantically similar: [ ]; Semantically different: [ x]
+Notes: [[[ ]]]
+
+----------------------------------
+SENTENCE NUMBER: 99
+ORIGINAL: ENERGY :
+REORDERED: ENERGY :
+	ORIGINAL log prob: -26.920814514160156
+	REORDERED log prob: -26.92081356048584
+	Exact match: True
+	Search error: False
+	Number of future (unigram) LM unks: 0; Number of LM unks: 0
+	Length: 2
+++Original sentence: Regular sentence: [ ]; Headline: [ x]; Source: [ ]; Other (see Notes): [ ]
+++Original sentence: Grammatical: [ x]; Ungrammatical: [ ]
+++Original sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+--Reordered sentence: Grammatical: [ x]; Ungrammatical: [ ]
+--Reordered sentence: Semantically acceptable: [ x]; Semantically unacceptable: [ ]
+**Original vs. Reordered sentence: Semantically identical: [ x ]; Semantically similar: [ ]; Semantically different: [ ]
+Notes: [[[ ]]]
+
