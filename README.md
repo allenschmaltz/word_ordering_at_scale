@@ -14,7 +14,7 @@ Additionally, we assume that the remaining search errors could be resolved in pr
 
 # Contents
 
-The pre-trained model used in the experiments here is available at [https://github.com/pytorch/fairseq](https://github.com/pytorch/fairseq).
+The pre-trained model used in our experiments is available [here](https://s3.amazonaws.com/fairseq-py/models/gbw_fconv_lm.tar.bz2) linked from [https://github.com/pytorch/fairseq](https://github.com/pytorch/fairseq).
 
 The pre-processed data is available [here](data/).
 
@@ -23,3 +23,9 @@ The re-ordered output is available [here](output/).
 The human evaluations are available [here](output_human_eval/).
 
 Examples of running the model for ordering are available [here](notes/order/order.sh).
+
+Instructions for creating the unigram model for future costs are [here](notes/setup/unigram_lm.sh).
+
+Scripts for preprocessing and sampling the datasets are [here](notes/setup/prepare_data.sh).
+
+Scripts for generating the summary statistics included in the dissertation chapter are [here](notes/summary_statistics/).
