@@ -2,7 +2,9 @@
 # See notes/setup/unigram_lm.sh for instructions on downloading the training data
 # (replace TRAINING_DATA as applicable).
 
-# The generated files are used in the analysis scripts.
+# The generated files are used in the analysis scripts. The generated n-gram
+# statistics are relative to the original source files (i.e., not the
+# re-ordered output).
 
 # Replace FILL_IN with applicable paths. (NOTE that this
 # will overwrite the existing data in the repo.)

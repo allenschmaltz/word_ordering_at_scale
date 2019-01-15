@@ -2,7 +2,20 @@
 """
 
 For each source sentence, this script saves summary statistics regarding the n-gram overlap between the evaluation
-data and the training data.
+(i.e., original source) data and the training data.
+
+The 10 columns are as follows:
+
+0: total tokens in the sentence; 1: total tokens in the LM vocabulary;
+2: total bigrams in the sentence; 3: total bigrams in the sentence also occurring in the training data;
+4: total trigrams in the sentence; 5: total trigrams in the sentence also occurring in the training data;
+6: total 4-grams in the sentence; 7: total 4-grams in the sentence also occurring in the training data;
+8: total 5-grams in the sentence; 9: total 5-grams in the sentence also occurring in the training data;
+
+Note the different semantics of the first two columns. For the higher-order n-grams (i.e., bigrams and higher), the
+training data is pre-processed to replace types outside the LM vocabulary with an unknown holder symbol in order to
+mimic the data as seen by the model in training. The first two columns are thus treated differently, since coverage
+would otherwise be 1 for the unigrams in this sense.
 
 """
 

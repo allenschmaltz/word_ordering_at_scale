@@ -1,6 +1,6 @@
 # The following simply creates a template for an end-user to assess the
 # ordering output. Note that the --input_file expects that the FIRST LINE IS
-# A HEADER, which is ignored.
+# A HEADER (added, for example, by code/data/combine_output_lines.py), which is ignored.
 
 ##############################################################################
 ### Generate human evaluation template -- PTB

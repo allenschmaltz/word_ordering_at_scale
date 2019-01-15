@@ -7,6 +7,9 @@
 # then calculate BLEU. (Here we use the BLEU script used in previous work
 # on word ordering.)
 
+# Note that the first line of --input_file is expected to be a header line (added, for example, by code/data/combine_output_lines.py)
+# and is ignored.
+
 ##############################################################################
 ### save reordered sentences alone into a single file -- PTB
 ##############################################################################
